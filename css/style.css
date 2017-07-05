@@ -1,8 +1,7 @@
 /*
-Project Name: Blank Template
-Client: Your Client
-Author: Your Name
-Developer @GA in NYC
+Project Name: Relaxr homework
+Client: Relaxr
+Author: Bob Giova 
 */
 
 
@@ -46,11 +45,11 @@ Developer @GA in NYC
 /*******************************************/
 
 body {
-     color: #000;
+     color: navy;
      font-size: 12px;
      line-height: 1.4;
      font-family: Helvetica, Arial, sans-serif;
-     background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
+     backgound: url(/images/relaxr_landing.jpg) no-repeat center top rgb(134,141,157);
       background-size: cover;
 }
 
